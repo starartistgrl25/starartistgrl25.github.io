@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Love story or not!</title>
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <h1>A Love story or not!</h1>
+        <h2> ok enough gab heres the story!</h2>
+        <p>
+            Your boyfriend just got down on one knee and remember he's
+            a prince of a castle and he want's to marry you.
+        </p>
+        <h3> What will you do Next?</h3>
+        
+        <h3> here's the choices made just for you.</h3>
+        <br>
+
+        <h3>Would you...</h3>
+
+        <a href="A.say yes!">
+            <img
+                src="images/prince.jpg"
+                width="500"
+                alt="princeproposing"
+            >
+        </a>
+        <a href="story3.html">
+            <h3>A. Say Yes! Click here</h3>
+        </a>
+     
+        <a href="story4.html">
+            <h3>B. Say No! Click here </h3>
+        </a>
+    </body>
+</html>
