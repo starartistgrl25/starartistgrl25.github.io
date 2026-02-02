@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+#b-1 {
+    background-color: aqua;
+    color: blue;
+}
+#b-2 {
+    background-color: aquamarine;
+    color: brown;
+}
+#l-1 {
+    background-color: rgb(255, 0, 21);
+    color: azure;
+}
+#l-2 {
+    background-color: blue;
+    color: azure;
+}
+#b-4 {
+    background-color: antiquewhite;
+    color: blueviolet;
+}
+#l-3 {
+    background-color: black;
+    color: aliceblue;
+}
+#l-4 {
+    background-color: blue;
+    color: aliceblue;
+}
+#l-5 {
+    background-color: blueviolet;
+    color: azure;
+}
+#l-6 {
+    background-color: brown;
+    color: gainsboro;
+}

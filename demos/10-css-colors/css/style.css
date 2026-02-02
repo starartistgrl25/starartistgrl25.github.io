@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#p-1 {
+    color:purple;
+}
+
+#p-2{
+    background-color: rgb(244, 210, 59);
+    color: black;
+}
+
+#s-1{
+    color: blue;
+}
+
+#s-2{
+    color:crimson;
+    background-color: aquamarine;
+}
