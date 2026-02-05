@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+span {
+    background-color: aqua;
+    display:block;
+}
+div  {
+    background-color: aquamarine;
+    display:inline-block;
+    width: 200px;
+    margin: 12px;
+    padding: 12px;
+}
+#Barbielove{
+    background-color:transparent;
+    display: block;
+    width:auto;
+}
+#barbie {
+    width: 500px;;
+}
