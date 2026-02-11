@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+#imagecrack{
+    width: 400px;
+    background-color: rgb(100, 62, 136);
+    padding: 23px;
+    margin: 60px;
+    border: 5px solid pink;
+}
+#braces{
+    width: 200px;
+    background-color: blue;
+    padding: 20px;
+    margin: 50px;
+    border: 5px solid purple;
+}
+#mountain{
+    width: 230px;
+    background-color: rgb(155, 243, 169);
+    padding: 20px;
+    margin: 60px;
+    border: 5px solid black;
+}
+#hannah{
+    width:280px;
+    background-color:pink ;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 50% ;
+    border: 5px solid purple;
+}
+#pretty{
+    width:400px;
+    background-color:rgb(232, 248, 55);
+    padding:20px;
+    margin: 60px;
+    border: 5px solid grey;
+}
