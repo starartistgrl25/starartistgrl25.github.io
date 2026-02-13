@@ -7,7 +7,20 @@ body {
     font-family: sans-serif;
 }
 .single-column{
-    width: 500px;
-    max-width: 800px;
-    background-color: aqua;
+    width: 90px;
+    max-width: 400px;
+    background-color:100px rgb(255, 0, 234);
+    padding-left: 500%;
+    padding-right: 500%;
+    margin: auto;
+    border-radius: 500px;
+}
+.single-column{
+    width: 90px;
+    max-width: 400px;
+    background-color:100px rgb(0, 153, 255);
+    padding-left: 500%;
+    padding-right: 500%;
+    margin: auto;
+    border-radius: 500px;
 }
