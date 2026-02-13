@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.single-column{
+    max-width: 300px;
+    margin-left:auto;
+    margin-right: auto;
+   
+}
+.light-container{
+    background-color: aquamarine;
+    padding: 48px 24px;
+}
+.dark-container{
+    background-color: blueviolet;
+    padding: 48px 24px;
+    color: azure;
+}
